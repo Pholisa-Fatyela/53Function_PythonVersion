@@ -91,7 +91,7 @@ After that add tests and implementations for all remaining functions.
 
 Create a function that:
 
-#| File name & function name | Function behaviour
+ #| File name & function name | Function behaviour
 ---|---|---
 1| hello.js | returns "hello world"
 2| hello_uppercase.js| takes a username as a parameter and returns "Hello, USERNAME!". If no username is supplied it should return "HELLO!".
